@@ -10,6 +10,6 @@ In step three, we decide which methods are implemented differently in subclasses
 
 Step four involves identifying instance variables specific to each class.
 
-Step five consists of implementing constructors and methods containing the public interface.
+Step five consists of implementing constructors and methods containing the public interface. 
 
 Lastly, in step six, we utilize a Tester class to process objects. This allows us to handle and test the functionality of the objects created from the defined classes.
